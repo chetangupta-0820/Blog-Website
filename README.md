@@ -1,2 +1,5 @@
 # my-first-webapp
-Blog using Python &amp; Django
+A dynamic Blog Website using python
+Tech stack includes Bootstrap for frontend, Django for backend & sqlite database
+
+<img src="">
